@@ -15,4 +15,6 @@ I'm currently learning Chinese as a personal challenge and out of curiosity,
 <img src="https://img.shields.io/badge/SQL-003B57?logo=mysql&logoColor=white" alt="SQL"/>
 </p>
 -->
+
+## My current skills
 [![My Skills](https://skillicons.dev/icons?i=java,js,html,css,py,php)](https://skillicons.dev)
