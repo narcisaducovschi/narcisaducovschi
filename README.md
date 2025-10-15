@@ -2,7 +2,7 @@
 
 I'm a second-year Web Application Development student (DAW). I have a strong interest in logical problem-solving and programming, and I enjoy writing clean, well-structured code to tackle complex challenges.
 
-I'm currently learning Chinese as a personal challenge and out of curiosity,
+Currently i'm currently learning Chinese as a personal challenge and out of curiosity. As a child, I dreamed of developing video games, and I haven’t ruled out chasing that path in the future.
 
 <!--
 <p align="center"> 
