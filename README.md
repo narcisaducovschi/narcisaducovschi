@@ -2,7 +2,7 @@
 
 I'm a second-year Web Application Development student (DAW). I have a strong interest in logical problem-solving and programming, and I enjoy writing clean, well-structured code to tackle complex challenges.
 
-Currently i'm currently learning Chinese as a personal challenge and out of curiosity. As a child, I dreamed of developing video games, and I haven’t ruled out chasing that path in the future.
+As a child, I dreamed of developing video games, and I haven’t ruled out chasing that path in the future.
 
 <!--
 <p align="center"> 
@@ -18,7 +18,7 @@ Currently i'm currently learning Chinese as a personal challenge and out of curi
 
 <h2>My current skills</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=java,js,html,css,py,php)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,js,html,css,py)](https://skillicons.dev)
 
 <h2>In process to learn</h2>
 
