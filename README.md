@@ -4,22 +4,11 @@ I'm a second-year Web Application Development student (DAW). I have a strong int
 
 As a child, I dreamed of developing video games, and I haven’t ruled out chasing that path in the future.
 
-<!--
-<p align="center"> 
-<img src="https://img.shields.io/badge/Java-orange?logo=java&logoColor=white" alt="Java"/> 
-<img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5"/> 
-<img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" alt="CSS3"/> 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript"/> 
-<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python"/> 
-<img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" alt="PHP"/> 
-<img src="https://img.shields.io/badge/SQL-003B57?logo=mysql&logoColor=white" alt="SQL"/>
-</p>
--->
 
-<h2>My current skills</h2>
+<h2>My skills</h2>
 
 [![My Skills](https://skillicons.dev/icons?i=java,js,html,css,py)](https://skillicons.dev)
 
 <h2>In process to learn</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=django,docker,tailwind,ts,react,astro)](https://skillicons.dev)
+[![Learn](https://skillicons.dev/icons?i=django,docker,tailwind,ts,react,astro)](https://skillicons.dev)
