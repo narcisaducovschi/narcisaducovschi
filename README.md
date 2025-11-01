@@ -1,4 +1,4 @@
-<img src="banner-github.png" width="1000px"> 
+<img src="banner-github.png" width="1000px" height="400px"> 
 <h2> Hi! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
 I'm a second-year Web Application Development student (DAW). I have a strong interest in logical problem-solving and programming, and I enjoy writing clean, well-structured code to tackle complex challenges.
