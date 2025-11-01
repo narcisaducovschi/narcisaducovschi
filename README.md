@@ -7,7 +7,7 @@ As a child, I dreamed of developing video games, and I haven’t ruled out chasi
 
 <h2>My skills</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=java,js,html,css,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,js,html,css,py,mysql)](https://skillicons.dev)
 
 <h2>In process to learn</h2>
 
