@@ -12,4 +12,4 @@ As a child, I dreamed of developing video games, and I haven’t ruled out chasi
 
 <h2>In process to learn</h2>
 
-[![Learn](https://skillicons.dev/icons?i=django,docker,tailwind,ts,react,astro,numpy,scipy,pygame)](https://skillicons.dev)
+[![Learn](https://skillicons.dev/icons?i=django,docker,tailwind,ts,react,astro)](https://skillicons.dev)
