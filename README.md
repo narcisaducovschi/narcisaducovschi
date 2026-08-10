@@ -1,14 +1,4 @@
 > Teppanyaki on my Mac, huh, I go 영크크
-
-<p align="center">
-  <img src="banner-resized.png?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Estudiante+de+Desarrollo+de+Aplicaciones+Web;Me+apasiona+resolver+problemas+con+código;Aprendiendo+algo+nuevo+cada+día+💻" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/TU_USUARIO"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:tuemail@ejemplo.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-</p>
-
 ---
 
 ### 🚀 Sobre mí
@@ -45,4 +35,9 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=narcisaducovschi&color=blueviolet&style=flat" alt="profile views" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/TU_USUARIO"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:tuemail@ejemplo.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
