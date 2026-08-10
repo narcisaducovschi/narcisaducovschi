@@ -3,10 +3,10 @@
 
 ### 🚀 Sobre mí
 
-- 🎓 Estudiante de 2º año de **Desarrollo de Aplicaciones Web (DAW)**
+- 🎓 Estudiante de 2º año de **Desarrollo de Aplicaciones Multiplataforma (DAM)**
 - 🧠 Me interesa la resolución lógica de problemas y escribir código limpio y bien estructurado
 - 📍 Zaragoza, España
-- 🌱 Actualmente aprendiendo **Django, Docker, TailwindCSS, TypeScript, React y Astro**
+- 🌱 Actualmente aprendiendo **Flutter, Docker, Springboot y Angular**
 
 ---
 
@@ -19,7 +19,7 @@
 ### 📚 En proceso de aprender
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=django,docker,tailwind,ts,react,astro" />
+  <img src="https://skillicons.dev/icons?i=,docker,flutter,spring,angular" />
 </p>
 
 ---
@@ -38,6 +38,6 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/TU_USUARIO"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:tuemail@ejemplo.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/narcisaducovschi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:narcis.aducovschi@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
