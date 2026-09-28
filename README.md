@@ -19,7 +19,7 @@
 ### 📚 En proceso de aprender
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=,docker,flutter,spring,angular" />
+  <img src="https://skillicons.dev/icons?i=,docker,kotlin,android,angular" />
 </p>
 
 ---
