@@ -18,7 +18,7 @@
 ### 📚 En proceso de aprender
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=,docker,kotlin,swift,androidstudio" />
+  <img src="https://skillicons.dev/icons?i=docker,kotlin,swift,androidstudio" />
 </p>
 
 ---
@@ -33,10 +33,10 @@
 ---
 ### 🧠 Estudios y Certificados
 
-- 🎓 **Desarrollo de Aplicaciones Multiplataforma (DAM)**  
+- **Desarrollo de Aplicaciones Multiplataforma (DAM)**  
   *Academia Marco (Zaragoza)* | `2026 - Presente`
 
-- 📜 **Desarrollo de Aplicaciones Web (DAW)**  
+- **Desarrollo de Aplicaciones Web (DAW)**  
   *Academia Marco (Zaragoza)* | `2024 - 2026`
 ---
 
