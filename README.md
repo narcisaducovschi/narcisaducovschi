@@ -6,7 +6,6 @@
 - 🎓 Estudiante de 2º año de **Desarrollo de Aplicaciones Multiplataforma (DAM)**
 - 🧠 Me interesa la resolución lógica de problemas y escribir código limpio y bien estructurado
 - 📍 Zaragoza, España
-- 🌱 Actualmente aprendiendo **Flutter, Docker, Springboot y Angular**
 
 ---
 
@@ -31,6 +30,14 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=narcisaducovschi&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
+---
+### 🧠 Estudios y Certificados
+
+- 🎓 **Desarrollo de Aplicaciones Multiplataforma (DAM)**  
+  *Academia Marco (Zaragoza)* | `2026 - Presente`
+
+- 📜 **Desarrollo de Aplicaciones Web (DAW)**  
+  *Academia Marco (Zaragoza)* | `2024 - 2026`
 ---
 
 <p align="center">
